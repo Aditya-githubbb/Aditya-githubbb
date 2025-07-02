@@ -39,7 +39,7 @@
 ### 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-verma-034619296/)  
-- 🌐 [Portfolio (if any)](https://my-digital-portfolio-pi.vercel.app)  
+- 🌐 [Portfolio](https://my-digital-portfolio-pi.vercel.app)  
 - 📧 Email: vermaaditya448192@gmail.com
 
 ---
