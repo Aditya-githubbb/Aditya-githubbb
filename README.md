@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Verma</h1>
 
 <p align="center">
-  💻 Frontend Web Developer • 🌐 React & JavaScript Enthusiast • 🚀 GSSoC 2025 Aspirant
+  💻 Frontend Web Developer • 🌐 React & Tailwind Enthusiast • 🚀 GSSoC 2025 Aspirant
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech CSE Student at Amity University, Lucknow  
-- 🌱 Currently learning **React.js** and exploring **open-source contribution**
+- 🌱 Currently learning **Next.js** and exploring **open-source contribution**
 - 👨‍💻 Passionate about building responsive & user-friendly interfaces
 - 🧠 Always curious to improve my skills through real-world projects
 - ✨ Actively participating in **GSSoC 2025**
@@ -23,6 +23,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff)
 
@@ -31,16 +33,20 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-githubbb&show_icons=true&theme=radical" alt="Aditya's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-githubbb&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-githubbb&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aditya-githubbb&theme=react-dark" alt="Contribution Graph" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-verma-034619296/)  
-- 🌐 [Portfolio](https://my-digital-portfolio-pi.vercel.app)  
-- 📧 Email: vermaaditya448192@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-verma123/)  
+- 🌐 [Portfolio](https://your-portfolio-link.com)  
+- 📧 Email: aditya.verma@email.com
 
 ---
 
