@@ -37,6 +37,17 @@
 
 ---
 
+## 🚀 Open Source Contributions
+
+[![First Contributions PR](https://img.shields.io/badge/First%20PR-Merged-success?style=flat-square&logo=github)](https://github.com/firstcontributions/first-contributions/pull/99806)
+
+- ✅ Contributed to [First Contributions](https://github.com/firstcontributions/first-contributions)  
+  ➤ [PR #99806](https://github.com/firstcontributions/first-contributions/pull/99806): Added my name to the contributors list 🎉  
+  ➤ Kickstarted my open-source journey!
+
+---
+
+
 ### 📫 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-verma-034619296/)  
