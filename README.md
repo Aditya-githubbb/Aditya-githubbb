@@ -38,9 +38,9 @@
 
 ### 📫 Connect With Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-verma123/)  
-- 🌐 [Portfolio (if any)](https://your-portfolio-link.com)  
-- 📧 Email: aditya.verma@email.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-verma-034619296/)  
+- 🌐 [Portfolio (if any)](https://my-digital-portfolio-pi.vercel.app)  
+- 📧 Email: vermaaditya448192@gmail.com
 
 ---
 
