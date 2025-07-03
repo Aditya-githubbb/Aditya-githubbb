@@ -27,11 +27,11 @@
 <div align="center">
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5"/>
 </a>
 &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3"/>
 </a>
 &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
@@ -39,7 +39,7 @@
 </a>
 &nbsp;
 <a href="https://reactjs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="60" height="60" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="React"/>
 </a>
 &nbsp;
 <a href="https://tailwindcss.com/" target="_blank">
@@ -47,11 +47,11 @@
 </a>
 &nbsp;
 <a href="https://git-scm.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60" alt="Git"/>
 </a>
 &nbsp;
 <a href="https://github.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://code.visualstudio.com/" target="_blank">
@@ -59,6 +59,7 @@
 </a>
 
 </div>
+
 
 
 ---
