@@ -108,16 +108,15 @@
   - [PR #4525](https://github.com/Semantic-Org/Semantic-UI-React/pull/4525): Minor code cleanup and test improvements 🛠️
 
 ---
-
-## ✨ Dev Quote
-
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Aditya-githubbb.Aditya-githubbb" alt="Visitor Count" />
 </p>
 
+---
+
+## ✨ Dev Quote
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
 
