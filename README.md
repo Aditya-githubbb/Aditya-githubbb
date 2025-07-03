@@ -69,7 +69,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya-githubbb&show_icons=true&theme=radical&count_private=true" alt="Aditya's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya-githubbb&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
