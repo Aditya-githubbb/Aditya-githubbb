@@ -51,7 +51,7 @@
 </a>
 &nbsp;
 <a href="https://github.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60" alt="GitHub"/>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" width="60" height="60" alt="GitHub"/>
 </a>
 &nbsp;
 <a href="https://code.visualstudio.com/" target="_blank">
