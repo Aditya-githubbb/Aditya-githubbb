@@ -88,9 +88,9 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Portfolio](https://github.com/Aditya-githubbb/my-digital-portfolio) | Personal website hosted on Vercel | React, Tailwind |
-| [To-Do App](#) | Minimal to-do app with dark mode | HTML, CSS, JS |
-| [Weather App](#) | Real-time weather using OpenWeather API | React, API |
+| [Portfolio](https://github.com/Aditya-githubbb/my-digital-portfolio) | Personal website hosted on Vercel | HTML5, CSS3, JS  |
+| [ExpenseEase](https://github.com/Aditya-githubbb/LearnSphere-using-HTML-and-CSS-) | A personal Expense tracker web app | HTML5, CSS3, JS |
+| [LearnSphere](https://github.com/Aditya-githubbb/ExpenseEase-using-HTML-CSS-and-JavaScript) | A fully responsive UI made just from HTML5 and CSS3 | HTML5, CSS3 |
 
 ---
 
