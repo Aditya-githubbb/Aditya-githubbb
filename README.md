@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Verma</h1>
 
 <p align="center">
-  <b>Frontend Web Developer</b> • <b>React & JavaScript Enthusiast</b> • <b>GSSoC'25 Aspirant</b>
+  <b>💻 Frontend Web Developer</b> • <b>🌐 React & JavaScript Enthusiast</b> • <b>🚀 GSSoC'25 Aspirant</b>
 </p>
 
 <p align="center">
