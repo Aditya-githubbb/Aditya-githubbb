@@ -71,16 +71,15 @@
 
 - ⚛️ Redux Toolkit & Global State Handling  
 - 🔥 Next.js and server-side rendering  
-- 🔍 Unit Testing with Jest & React Testing Library  
 - 📦 Vite + Tailwind setup for faster dev  
 
 ---
 
 ## 🤝 Let's Collaborate On
 
-- 🌐 Frontend projects using **React & Tailwind**
+- 🌐 Frontend projects using **HTML, CSS, JS & React**
 - ⚡ Open Source projects and contributions
-- 🧠 UI/UX enhancements & accessibility improvements
+- 🧠 UI enhancements & accessibility improvements
 - 🛠 Clean, scalable & responsive UIs
 
 ---
@@ -110,17 +109,6 @@
 
 ---
 
-<details>
-<summary>🌓 Portfolio Light/Dark Mode Preview</summary>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/YOUR-ID/light-mode.png" width="45%" />
-  &nbsp;
-  <img src="https://user-images.githubusercontent.com/YOUR-ID/dark-mode.png" width="45%" />
-</p>
-</details>
-
----
-
 ## ✨ Dev Quote
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
@@ -139,8 +127,4 @@
 
 <p align="center">
   <i>“Let’s build, collaborate, and grow together — open source is the future!” 🚀</i>
-</p>
-
-<p align="center">
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Aditya-githubbb.Aditya-githubbb)
 </p>
