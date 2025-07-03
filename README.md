@@ -114,7 +114,10 @@
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Aditya-githubbb.Aditya-githubbb)
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aditya-githubbb.Aditya-githubbb" alt="Visitor Count" />
+</p>
+
 
 ---
 
