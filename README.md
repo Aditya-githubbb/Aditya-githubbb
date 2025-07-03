@@ -73,13 +73,20 @@
 
 ---
 
+
 ## 🧩 Open Source Contributions
 
-- ✅ **Contributed to [First Contributions](https://github.com/firstcontributions/first-contributions)**  
-  ➤ [PR #99806](https://github.com/firstcontributions/first-contributions/pull/99806): Added my name to the contributors list 🎉  
-  ➤ Kickstarted my open-source journey with this milestone!
+- ✅ **Contributed to [First Contributions](https://github.com/firstcontributions/first-contributions)**
+  - [PR #99806](https://github.com/firstcontributions/first-contributions/pull/99806): Added my name to the contributors list 🎉
+  - Kickstarted my open-source journey with this milestone!
+  <br>
+  <img src="https://img.shields.io/badge/First%20PR-Merged-brightgreen?style=flat-square&logo=github" />
 
-[![First PR Badge](https://img.shields.io/badge/First%20PR-Merged-brightgreen?style=for-the-badge&logo=github)](https://github.com/firstcontributions/first-contributions/pull/99806)
+- ✅ **Contributed to [ReactiveSearch by appbaseio](https://github.com/appbaseio/reactivesearch)**
+  - [PR #2313](https://github.com/appbaseio/reactivesearch/pull/2313): Improved documentation and fixed markdown styling issues 📚
+
+- ✅ **Contributed to [Semantic UI React](https://github.com/Semantic-Org/Semantic-UI-React)**
+  - [PR #4525](https://github.com/Semantic-Org/Semantic-UI-React/pull/4525): Minor code cleanup and test improvements 🛠️
 
 ---
 
