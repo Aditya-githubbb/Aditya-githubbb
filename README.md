@@ -52,19 +52,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
+
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya-githubbb&show_icons=true&theme=radical&count_private=true" alt="Aditya's GitHub Stats" />
   <br/>
 
-  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya-githubbb&theme=radical&t=1" alt="GitHub Streak" />
   <br /><br />
 
-  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=Aditya-githubbb&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
   <br /><br />
 
-  <!-- GitHub Activity Graph (Working Host) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-githubbb&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
@@ -98,6 +95,10 @@
 ---
 
 ## 🧩 Open Source Contributions
+
+- ✅ Contributed to [50 Projects - HTML CSS JavaScript](https://github.com/tajulafreen/50Projects-HTML-CSS-JavaScript)
+  - [PR #56](https://github.com/tajulafreen/50Projects-HTML-CSS-JavaScript/pull/56): Added a new mini project to the list — Great UI & functionality 💡
+
 
 - ✅ **Contributed to [First Contributions](https://github.com/firstcontributions/first-contributions)**
   - [PR #99806](https://github.com/firstcontributions/first-contributions/pull/99806): Added my name to the contributors list 🎉
