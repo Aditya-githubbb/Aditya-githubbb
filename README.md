@@ -49,8 +49,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -66,11 +64,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Aditya-githubbb&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
   <br /><br />
 
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aditya-githubbb&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <!-- GitHub Activity Graph (Working Host) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya-githubbb&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
-
-
 
 ---
 
