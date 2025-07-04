@@ -51,8 +51,6 @@
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
 <p align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya-githubbb&show_icons=true&theme=radical&count_private=true&include_all_commits=true&t=1" alt="Aditya's GitHub Stats" />
