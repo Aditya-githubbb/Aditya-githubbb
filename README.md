@@ -58,9 +58,9 @@
     <img alt="Aditya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Aditya-githubbb&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
   </picture>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-githubbb&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-githubbb&show_icons=true&theme=radical&t=1" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya-githubbb&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya-githubbb&theme=radical&t=1" alt="GitHub Streak" />
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=Aditya-githubbb&theme=radical&no-frame=true&row=1&column=6" />
 </p>
