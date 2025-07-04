@@ -51,25 +51,25 @@
 
 ## 📈 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Aditya-githubbb&show_icons=true&theme=radical&count_private=true&include_all_commits=true&t=1" alt="Aditya's GitHub Stats" />
-
-  <br/>
+  <br /><br />
 
   <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Aditya-githubbb&theme=radical&t=1" alt="GitHub Streak" />
+  <br /><br />
 
-  <br/>
-
-  <!-- GitHub Trophy -->
+  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=Aditya-githubbb&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-
-  <br/>
+  <br /><br />
 
   <!-- GitHub Activity Graph -->
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Aditya-githubbb&theme=react-dark&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
+
 
 
 ---
